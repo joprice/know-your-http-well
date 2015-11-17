@@ -180,12 +180,6 @@
         "spec_href": "http://tools.ietf.org/html/rfc7234#section-5.1"
     },
     {
-        "header": "Cache-Control",
-        "description": "\"is used to specify directives for caches along the request/response chain.\"",
-        "spec_title": "RFC7234#7.2",
-        "spec_href": "http://tools.ietf.org/html/rfc7234#section-7.2"
-    },
-    {
         "header": "Expires",
         "description": "\"gives the date/time after which the response is considered stale.\"",
         "spec_title": "RFC7234#7.3",
